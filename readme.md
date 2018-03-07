@@ -1,4 +1,4 @@
-#Sumorobot proglab
+# Sumorobot proglab
 
-###medlemmer:
+### medlemmer:
 -Eivind, Ellen, Victor, Pernille, Simen
