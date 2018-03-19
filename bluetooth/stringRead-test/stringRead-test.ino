@@ -13,6 +13,7 @@ PLabBTSerial btSerial(txPin, rxPin);
 
 void BTSerialMessageReceived(String msgString) {
   Serial.println(msgString);
+  BTSerialSendMessage(msgString);
 }
 
 //...........................................................................
